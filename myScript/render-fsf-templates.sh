@@ -31,7 +31,7 @@ function render_firstlevel {
 #FIX
 USELESS_BRAIN=t1_flash01.nii.gz
 MPRAGE_BRAIN=results/3-bet/sub01/sub01_t1_mprage_brain.nii.gz
-STANDARD_BRAIN=package/MNI152_T1_2mm_brain.nii.gz
+STANDARD_BRAIN=/usr/local/fsl/data/standard/MNI152_T1_2mm_brain
 
 #VARIABLES
 TARGET_DIR=results/2-reorient/sub01
